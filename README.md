@@ -1,4 +1,4 @@
-[![LICENSE]](https://img.shields.io/badge/license-MIT-blue)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue](./LICENSE)
 # KDDCup2020_AutoGraph
 
 ## Introduction
