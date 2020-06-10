@@ -1,3 +1,4 @@
+![LICENSE](https://img.shields.io/badge/license-MIT-blue)
 # KDDCup2020_AutoGraph
 
 ## Introduction
