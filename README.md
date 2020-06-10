@@ -9,7 +9,7 @@ My first journey to KDD Cup, and the ranks of KDD Cup 2020 AutoGraph Challenge a
 * DropEdge: I have a try, but the result does not meet expectations, waiting the version of Pyg to validating.
 
 ## Inference
-The majority of my work is based on the PyG and the author of PPNP, thanks a lot.
+The majority of my work is based on the PyG and PPNP, thanks a lot.
 ```
 @inproceedings{Fey/Lenssen/2019,
   title={Fast Graph Representation Learning with {PyTorch Geometric}},
