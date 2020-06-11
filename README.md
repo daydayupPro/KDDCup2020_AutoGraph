@@ -10,6 +10,11 @@ My first journey to KDD Cup, and the ranks of KDD Cup 2020 AutoGraph Challenge a
 * PPNP: The version of PyG, DGL and author's, all of these are tried and the last is best. The author's code has some errors and I fix it up.
 * DropEdge: I have a try, but the result does not meet expectations, waiting the version of Pyg to validating.
 
+## Run
+```python
+python run_local_test.py --dataset_dir=./data/demo --code_dir=./daydayup_submit
+```
+
 ## Inference
 The majority of my work is based on the PyG and PPNP, thanks a lot.
 ```
